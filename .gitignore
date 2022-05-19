@@ -1,0 +1,8 @@
+venv/
+.idea/
+data/
+.ipynb_checkpoints/
+.idea/
+dataset_level1.pkl
+dataset_level2.pkl
+pipe.pkl
